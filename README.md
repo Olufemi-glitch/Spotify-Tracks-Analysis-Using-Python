@@ -1,2 +1,6 @@
 # Spotify-Tracks-Analysis-Using-Python
 Spotify is a Swedish audio streaming and media services provider founded on April 23, 2006 by Daniel Ek and Martin Lorentzon 1. It is one of the largest music streaming service providers, with over 551 million monthly active users, including 220 million paying subscribers, as of June 2023 12. Spotify offers digital copyright restricted recorded audio content, including more than 100 million songs and five million podcasts, from record labels and media companies 1. As a freemium service, basic features are free with advertisements and limited control, while additional features, such as offline listening and commercial-free listening, are offered via paid subscriptions 1. Users can search for music based on artist, album, or genre, and can create, edit, and share playlists.
+
+CORRELATION
+Energy and loudness have a high positive correlation with a score of 0.76.
+Energy and acousticness have a high negative correlation with a score of -0.72.
